@@ -40,7 +40,7 @@ public class SchoologyTest extends BaseTest {
 	 coursesPage.clickIconForUpdatingPost();
 	 Thread.sleep(2000);
 	 coursesPage.clickDeletePost();
-	 Thread.sleep(2000);
+	 Thread.sleep(1000);
 	}
 		
 }
